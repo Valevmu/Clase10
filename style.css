@@ -21,10 +21,6 @@ h2{
     <color: #fff;>
 }
 h3,
-h4{
- font-size: calc(2.5rem + 1.5vw);
-    <color: #fff;>
-}
 h5,
 h6 {
     font-weight: 700;
