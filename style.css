@@ -25,11 +25,12 @@ h6 {
     font-weight: 700;
 }
 
-header {
-                background: url("img/cabecera.jpg") center bottom no-repeat;
-                background-size: cover;
-                padding: 15vh 0 0 0;
-            }
+header {  
+        	background: url("img/historia ccu.jpg")center bottom repeat-x, linear-gradient(#fae5c7, #fafafa);
+        	background-size: cover;
+            padding: 10vh 0 0 0; }
+
+              
 
 
 main p.lead {
